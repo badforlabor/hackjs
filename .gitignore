@@ -1,0 +1,9 @@
+
+
+node_modules/
+.vscode/
+*.js
+*.map
+1.log
+
+
